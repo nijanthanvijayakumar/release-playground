@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1-rc.1](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.1.0-rc.1...v1.1.1-rc.1) (2024-08-22)
+
+
+### Bug Fixes
+
+* update the versioning strategy ([66c43c5](https://github.com/nijanthanvijayakumar/release-playground/commit/66c43c56b811e443be4c378cc11683ccec8c7003))
+
 ## [1.1.0-rc.1](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.1.0-rc...v1.1.0-rc.1) (2024-08-22)
 
 
