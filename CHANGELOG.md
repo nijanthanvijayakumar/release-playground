@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-rc.1](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.1.0-rc...v1.1.0-rc.1) (2024-08-22)
+
+
+### Features
+
+* update the readme file ([45979b9](https://github.com/nijanthanvijayakumar/release-playground/commit/45979b9f36838fbdf3bdcec617893588c5eb6ad3))
+
 ## [1.1.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.0.0...v1.1.0-rc) (2024-08-22)
 
 
