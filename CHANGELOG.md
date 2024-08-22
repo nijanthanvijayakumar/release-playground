@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0-rc.1](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.2.0-rc...v1.2.0-rc.1) (2024-08-22)
+
+
+### Bug Fixes
+
+* properly update the prerelease ([b439ae6](https://github.com/nijanthanvijayakumar/release-playground/commit/b439ae6a07410c314fd4f3ccf9ff7d8571026b57))
+
 ## [1.2.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.1.0...v1.2.0-rc) (2024-08-22)
 
 
