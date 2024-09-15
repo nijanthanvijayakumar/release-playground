@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v3.0.0-rc...v3.1.0-rc) (2024-09-15)
+
+
+### Features
+
+* set this to a release - test 1 ([dfd7a3e](https://github.com/nijanthanvijayakumar/release-playground/commit/dfd7a3eedfa6f943a14237e07d3ce1adb0bc86d4))
+
 ## [3.0.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v2.1.0...v3.0.0-rc) (2024-09-15)
 
 
