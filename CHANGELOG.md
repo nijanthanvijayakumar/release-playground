@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v4.0.0...v4.1.0-rc) (2024-09-15)
+
+
+### Features
+
+* this is test 2 to create a prerelease and bump up only minor version ([e1a6c6a](https://github.com/nijanthanvijayakumar/release-playground/commit/e1a6c6a3ccc73ba091e2e6befe3939bfb7246404))
+
 ## [4.0.0](https://github.com/nijanthanvijayakumar/release-playground/compare/v3.1.0...v4.0.0) (2024-09-15)
 
 
