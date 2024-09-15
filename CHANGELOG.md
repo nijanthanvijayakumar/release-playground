@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v2.1.0...v3.0.0-rc) (2024-09-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This is a pre-release fix
+* This is a pre-release fix
+
+### Features
+
+* This is a pre-release fix ([76a02a2](https://github.com/nijanthanvijayakumar/release-playground/commit/76a02a2562fd3004499e6327753104196bd3a029))
+* This is a pre-release fix ([76a02a2](https://github.com/nijanthanvijayakumar/release-playground/commit/76a02a2562fd3004499e6327753104196bd3a029))
+
+
+### Bug Fixes
+
+* this is the proper pre-release ([630006d](https://github.com/nijanthanvijayakumar/release-playground/commit/630006d533066b0979d8b4bf4ec3c9746b3b8f50))
+
 ## [2.1.0](https://github.com/nijanthanvijayakumar/release-playground/compare/v2.0.0...v2.1.0) (2024-09-15)
 
 
