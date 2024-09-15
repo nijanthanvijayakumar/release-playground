@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/nijanthanvijayakumar/release-playground/compare/v2.0.0...v2.1.0) (2024-09-15)
+
+
+### Features
+
+* Create a pre-release by updating the readme file ([db8f7dd](https://github.com/nijanthanvijayakumar/release-playground/commit/db8f7dd28e3f3bc51585b8fd94cbd154dac64558))
+
 ## [2.0.0](https://github.com/nijanthanvijayakumar/release-playground/compare/v1.2.0...v2.0.0) (2024-08-22)
 
 
