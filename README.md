@@ -11,3 +11,8 @@ Note:
   * Outcome:
     * Bumps the major version to 5.0.0
 * Test 3: Create a pre-release
+  * Outcome: Worked as expected and bumped up the minor
+* Test 4: Removes the pre-release configs. Downs the version to 5.0.0 from 5.1.0-rc and removes the -rc lets see how it works. 
+  * Also sets the `"bump-minor-pre-major": true,`
+  * Outcome:
+    * Expected outcome is to bring the release version up to 5.1.0
