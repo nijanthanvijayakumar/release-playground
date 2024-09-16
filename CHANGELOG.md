@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.0-rc](https://github.com/nijanthanvijayakumar/release-playground/compare/v5.0.0...v5.1.0-rc) (2024-09-16)
+
+
+### Features
+
+* create a pre-release again. This is test 3 ([b361a5d](https://github.com/nijanthanvijayakumar/release-playground/commit/b361a5d778be09f7393438d27bf8611a13843d52))
+
 ## [5.0.0](https://github.com/nijanthanvijayakumar/release-playground/compare/v4.1.0...v5.0.0) (2024-09-15)
 
 
